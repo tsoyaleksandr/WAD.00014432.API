@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAD.00014432.API", "WAD.00014432.API\WAD.00014432.API.csproj", "{3F990F27-C9B0-4CC3-9A34-C3350EF52C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAD.00014432.API.DAL", "WAD.00014432.API.DAL\WAD.00014432.API.DAL.csproj", "{26F2C8E5-2951-4EA5-AEC1-25F30A4FFD54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F990F27-C9B0-4CC3-9A34-C3350EF52C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F990F27-C9B0-4CC3-9A34-C3350EF52C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F990F27-C9B0-4CC3-9A34-C3350EF52C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F990F27-C9B0-4CC3-9A34-C3350EF52C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F2C8E5-2951-4EA5-AEC1-25F30A4FFD54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F2C8E5-2951-4EA5-AEC1-25F30A4FFD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F2C8E5-2951-4EA5-AEC1-25F30A4FFD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F2C8E5-2951-4EA5-AEC1-25F30A4FFD54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DBE3835-8173-4F54-8D52-64AEDDD12AA1}
+	EndGlobalSection
+EndGlobal
